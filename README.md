@@ -53,6 +53,11 @@ AI Recommendation Engine: Machine Learning Algorithms
 Database: MongoDB
 
 
+## Design Prototype
+
+🎨 Check out our Figma design: https://www.figma.com/design/T6lbC4KxUKQxkEpQcNzZCg/PickDo?node-id=0-1&p=f
+
+
 ## Get Involved
 
 🚀 Want to contribute? Fork the repo, create a branch, and submit a pull request.
