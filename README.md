@@ -5,8 +5,11 @@ PickDo is an AI-powered personalized recommendation platform that helps users di
 
 ## Why PickDo?
 In the vast e-commerce landscape, users often face choice overload, leading to stress and lengthy research. PickDo solves this by:
+
 ✅ Providing personalized recommendations tailored to user preferences.
+
 ✅ Reducing research time by 50% with AI-driven filtering.
+
 ✅ Offering direct purchase links while earning revenue through affiliate marketing.
 
 ## Key Features
